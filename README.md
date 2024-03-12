@@ -4,4 +4,4 @@ I am experienced in programming languages such as Python and C#, and I am curren
 
 Thank you for visiting my profile and I hope you find my projects interesting and informative.
 
-... and of course this damm text is written by ChatGPT, like im writing this all by myself.
+... and of course this damn text is written by ChatGPT, like im writing this all by myself.
