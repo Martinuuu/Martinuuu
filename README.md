@@ -1,7 +1,7 @@
-Hi, my name is Martin! I am a student from Germany currently learning software development. On my profile, you'll find a variety of projects and exercises that I've worked on to improve my skills. Feel free to take a look around and leave any feedback or suggestions for improvement.
+Hi, my name is Martin! I’m a student from Germany currently learning software development. On my profile, you’ll find a variety of projects and exercises I’ve worked on to improve my skills. Feel free to take a look around, and I’d love to hear any feedback or suggestions for improvement.
 
-I am experienced in programming languages such as Python and C#, and I am currently focusing on learning React Native to develop mobile applications. I also make some games in Unity for fun and I am also interested in learning more about algorithms, data structures and software design patterns.
+I have experience in programming languages like Python and C#, and I’m currently diving into React Native to develop mobile applications. For fun, I also create games in Unity. Additionally, I’m passionate about learning more about algorithms, data structures, and software design patterns to deepen my understanding of software development.
 
-Thank you for visiting my profile and I hope you find my projects interesting and informative.
+Thanks for visiting my profile! I hope you find my projects both interesting and informative.
 
-... and of course this damn text is written by ChatGPT, like im writing this all by myself.
+P.S. Yes, this text was initially written with the help of ChatGPT—but hey, I’m constantly refining my skills, even in writing!
